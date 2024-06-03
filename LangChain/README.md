@@ -1,6 +1,6 @@
 # Question and Answer System Based on Google Palm LLM and Langchain for E-learning company  
 
-![App-Page](https://github.com/Mehmetzahitangi/Large-Language-Models/new/main/LangChain/streamlit-page.png)
+![App-Page](https://github.com/Mehmetzahitangi/Large-Language-Models/blob/main/LangChain/streamlit-page.png)
 
 
 ## Project Structure
